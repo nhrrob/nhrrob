@@ -23,7 +23,6 @@
 - <a href="https://github.com/nhrrob/laravelwiki">Laravel Wiki</a>
 - <a href="https://github.com/nhrrob/laravel-get-started-project">Laravel Get Started Project</a>
 
-[![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhrrob)](https://github.com/nhrrob/github-readme-stats)
+[![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhrrob?theme=dark)](https://github.com/nhrrob/github-readme-stats)
 
-![](https://raw.githubusercontent.com/nhrrob/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/nhrrob/github-stats-transparent/output/generated/languages.svg)
+<!-- https://github.com/anuraghazra/github-readme-stats -->
