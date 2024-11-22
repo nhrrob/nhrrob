@@ -13,9 +13,10 @@
 
 - CSE Graduate. From Dhaka, Bangladesh
 - Currently working as a Senior WordPress Developer at WPDeveloper
-- Experienced in Php, Javascript, WordPress, Rest Api, OOP
+- Experienced in Php, Laravel, Javascript, WordPress, Rest Api, OOP
 - Decent knowledge on Python, Angular Js, Vue Js and React Js 
 - Love watching movies, building my own website (nazmulrobin.com) in free time
+- Laravel Lover and PHP Artisan
 
 ### Recent repositories
 
