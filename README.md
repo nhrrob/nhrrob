@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Robin</h2>
-<h3 align="center">Web Developer | PHP | Laravel | VueJs | WordPress | AWS</h3>
+<h3 align="center">Senior Wordpress Developer specializing in WordPress and Plugin Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nhrrob&label=Profile%20views&color=0e75b6&style=flat" alt="nhrrob" /> </p>
 
@@ -12,7 +12,7 @@
 ### About
 
 - CSE Graduate. From Dhaka, Bangladesh
-- Currently working as a Laravel Developer
+- Currently working as a Senior WordPress Developer at WPDeveloper
 - Experienced in Php, Javascript, WordPress, Rest Api, OOP
 - Decent knowledge on Python, Angular Js, Vue Js and React Js 
 - Love watching movies, building my own website (nazmulrobin.com) in free time
