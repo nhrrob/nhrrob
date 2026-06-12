@@ -12,7 +12,7 @@
 ### About
 
 - CSE Graduate. From Dhaka, Bangladesh
-- Currently working as a Senior WordPress Developer at WPDeveloper
+- Currently working as a Senior Engineer, Back-End at Fueled (Previously 10up)
 - Experienced in Php, Laravel, Javascript, WordPress, Rest Api, OOP
 - Decent knowledge on Python, Angular Js, Vue Js and React Js 
 - Love watching movies, building my own website (nazmulrobin.com) in free time
